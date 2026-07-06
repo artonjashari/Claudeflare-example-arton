@@ -1,0 +1,7 @@
+cloudflare_api_token  = "your-cloudflare-api-token"
+cloudflare_account_id = "your-cloudflare-account-id"
+project_name          = "nextjs-cloudflare-example"
+github_owner          = "your-github-username"
+github_repo           = "nextjs-cloudflare-example"
+production_branch     = "main"
+custom_domain         = ""
